@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Javascript**
 
-- 👨‍💻 All of my projects are available at https://vicblanc92.github.io/portfolio/
+- 👨‍💻 All of my projects are available at https://vicblanc92.github.io/portfoliovictoria/
 
 - 💬 Ask me about **React, HTML and CSS.**
 
