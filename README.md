@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **React and Javascript**
+- 🌱 I’m currently learning **React and Redux**
 
 - 👨‍💻 All of my projects are available at https://vicblanc92.github.io/portfolio/
 
